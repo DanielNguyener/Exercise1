@@ -18,7 +18,7 @@ ui = fluidPage(
   div('the main pane on the right allows you to select morphs to display in a plot, the coordinate locations relative to one another'),
   div('download the data for all populations using the download button at the bottom.'),
   br(),
-  img(src = 'tetra image.jpg'),
+  img(src = 'tetra_image.jpg'),
   br(),
   
   
